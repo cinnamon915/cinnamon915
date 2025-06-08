@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cinnamon915 and i like to do eletrical engineering 
-- 👀 I’m interested in eletrical engineering and C coding 
-- 🌱 I’m currently learning c coding
+- 👀 I’m interested in eletrical engineering and html coding 
+- 🌱 I’m currently learning html coding
 - 📫 How to reach me gmail cinnamonnn@mail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun facts: i like the raspberry pi 5
